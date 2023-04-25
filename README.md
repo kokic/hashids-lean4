@@ -2,6 +2,10 @@
 
 Lean4 implementation of http://hashids.org
 
+## Hashids?
+
+A library to generate short unique YouTube-like ids from integers. Use it when you don't want to expose your database ids to the user.
+
 ## Usage
 
 ```lean
