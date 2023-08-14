@@ -1,5 +1,7 @@
 # hashids-lean4
 
+> This is an experiment in using Lean 4 as a general purpose programming language.
+
 Lean4 implementation of http://hashids.org
 
 ## Hashids?
